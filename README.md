@@ -1,4 +1,4 @@
-# SO.DO.JOGO v1.5.3
+# SO.DO.JOGO v1.5.4
 
 - 5 decks × 16 cartas = 80 cartas.
 - Cartas revisadas conceitualmente a partir de *Sistemas Operacionais: Conceitos e Mecanismos* (Carlos Maziero, 2019).
