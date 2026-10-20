@@ -1,0 +1,3 @@
+node_modules/
+baralho-local.sqlite*
+.env

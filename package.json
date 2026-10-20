@@ -1,0 +1,18 @@
+{
+  "name": "so-do-jogo",
+  "version": "1.5.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server-local.js",
+    "dev": "node server-local.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "qrcode": "^1.5.4"
+  }
+}
